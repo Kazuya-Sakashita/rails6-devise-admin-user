@@ -23,3 +23,11 @@ Things you may want to cover:
 
 * ...
 # rails6-devise-admin-user
+
+
+参考HP
+
+https://nllllll.com/ruby-on-rails/rails-devise/
+
+http://freecamp.life/rails-devise-admin1/
+
